@@ -1,0 +1,29 @@
+[
+  {
+    "name": "The Celestial Observatory",
+    "city": "Starlight Valley",
+    "description": "The Celestial Observatory is a state-of-the-art facility dedicated to astronomical research and public education. Opened in 2023.",
+    "coordinates": {
+      "latitude": 34.5678,
+      "longitude": -118.4567
+    }
+  },
+  {
+    "name": "Starlight Observatory",
+    "city": "Pasadena",
+    "description": "Starlight Observatory is a state-of-the-art facility dedicated to astronomical research and public education. Opened in 2023.",
+    "coordinates": {
+      "latitude": 34.1667,
+      "longitude": -118.3
+    }
+  },
+  {
+    "name": "The Stellaris Observatory",
+    "city": "Redwood Creek",
+    "description": "The Stellaris Observatory is a state-of-the-art facility dedicated to astronomical research and public education. Opened in 2023.",
+    "coordinates": {
+      "latitude": 37.7647,
+      "longitude": -122.4194
+    }
+  }
+]
